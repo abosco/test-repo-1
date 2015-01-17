@@ -1,2 +1,10 @@
 # test-repo-1
-This is my first test repository
+## So far
+* add
+* commit
+* push
+* pull
+
+### Next steps
+* branch
+* checkout
